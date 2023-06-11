@@ -62,9 +62,12 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
+<br/>
 ❤ Views and Followers
 <a href="https://github.com/aarohiiii/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aarohiiii">
 </a>
+<br/> 
+<br/>
 <a href="https://github.com/aarohiiii?tab=followers"><img src="https://img.shields.io/github/followers/aarohiiii?label=Followers&style=social" alt="GitHub Badge"></a>
 ---
