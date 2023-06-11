@@ -66,8 +66,10 @@
 ❤ Views and Followers
 <a href="https://github.com/aarohiiii/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aarohiiii">
+<br/>
 </a>
 <br/> 
 <br/>
-<a href="https://github.com/aarohiiii?tab=followers"><img src="https://img.shields.io/github/followers/aarohiiii?label=Followers&style=social" alt="GitHub Badge"></a>
----
+<a href="https://github.com/aarohiiii?tab=followers"><img src="https://img.shields.io/github/followers/aarohiiii?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
